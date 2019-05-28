@@ -15,6 +15,8 @@ Review products, books, movies, restaurant and anything you like on your Jekyll 
 
 #### How to use?
 
+![1559087870976](assets/images/1559087870976.png)
+
 It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:
 
 ```html
