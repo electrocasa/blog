@@ -5,6 +5,15 @@ title: Home
 
 {% if page.url == "/" %}
 
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+    <div class="pointerup"><i class="fa fa-caret-up"></i></div>
+    <span class="navigation" role="navigation">
+        {% include pagination.html %}
+    </span>
+    </div>
+
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
@@ -50,12 +59,5 @@ title: Home
 
 </section>
 
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
-</div>
+
 
