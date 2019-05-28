@@ -14,22 +14,22 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: kgnete
+    display_name: kgnete
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: kgnete@gmail.com
+    web: https://wattbucket.com 
+    twitter: https://twitter.com/wattbucket
+    description: "Autor de varios articulos sobre control optimo."
   john:
-    name: John
-    display_name: John    
+    name: Merche
+    display_name: Merche    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
+    email: wattbucket@gmail.com
+    web: https://wattbucket.com 
     twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: "CEO y autora de de varios articulos sobre Gestion de Resursos Energeticos."
 
 # Plugins
 plugins:
