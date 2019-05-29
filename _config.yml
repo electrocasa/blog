@@ -11,14 +11,14 @@
 # include: ["_pages"]
 # permalink: /:title/
 
-name: "WattBucket"
-title: "WattBucket"
-description: "Monitorización energética"
+name: "ElectroCasa"
+title: "ElectroCasa"
+description: "Facilitando su vida"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
 google_analytics: 'UA-46278016-1'
-disqus: 'wattbucket'
+disqus: 'ElectroCasa'
 include: ["_pages"]
 permalink: /:title/
 
@@ -32,7 +32,7 @@ authors:
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: kgnete@gmail.com
     web: https://wattbucket.com 
-    twitter: https://twitter.com/wattbucket1
+    twitter: https://twitter.com/electrpcasa2
     description: "Experto Control & Power Systems"
   merche:
     name: Merche
@@ -41,7 +41,7 @@ authors:
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wattbucket@gmail.com
     web: https://wattbucket.com 
-    twitter: https://twitter.com/wattbucket1
+    twitter: https://twitter.com/electrpcasa2
     description: "CEO. Experta Pemitting."
   kgnete:
     name: kgnete
@@ -49,7 +49,7 @@ authors:
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wattbucket@gmail.com
     web: https://wattbucket.com 
-    twitter: https://twitter.com/wattbucket1
+    twitter: https://twitter.com/electrpcasa2
     description: "Experto SCADA / IoT "
 
 # Plugins
