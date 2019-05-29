@@ -5,7 +5,7 @@ author: frank
 categories: [ jojo, tutorial ]
 image: assets/images/16.jpg
 ---
-
+[TOC]
 
 
 
