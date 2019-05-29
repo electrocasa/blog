@@ -18,7 +18,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus: 'wattbucket'
 include: ["_pages"]
 permalink: /:title/
 
@@ -40,7 +40,7 @@ authors:
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wattbucket@gmail.com
     web: https://wattbucket.com 
-    twitter: https://twitter.com/wowthemesnet
+    twitter: https://twitter.com/wattbucket
     description: "CEO y autora de de varios articulos sobre Gestion de Resursos Energeticos."
 
 # Plugins
@@ -74,9 +74,9 @@ kramdown:
       line_numbers: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+# adsense: "disabled"
+# adsense-data-ad-client: "ca-pub-3412143450191416"
+# adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
