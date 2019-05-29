@@ -2,7 +2,7 @@
 layout: post
 title:  "Normativa2"
 author: merche
-categories: [ normativa, auditoria ]
+categories: [ fotovoltaica, auditoria ]
 tags: [red, yellow]
 image: assets/images/1559092278695.png
 description: "Tramitaccion de la documentacion2"
@@ -14,6 +14,10 @@ rating: 5
 este esta modificado .
 
 #### How to use?
+
+[Guía Técnica de aplicación al Reglamento Electrotécnico de Baja Tensión](http://www.f2i2.net/legislacionseguridadindustrial/rebt_guia.aspx)
+
+
 
 ![1559092278695](../assets/images/1559092278695.png)
 

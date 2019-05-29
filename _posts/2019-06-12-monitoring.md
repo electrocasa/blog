@@ -2,20 +2,14 @@
 layout: post
 title:  "jojo Powerful things you can do with the Markdown editor"
 author: frank
-categories: [ jojo, tutorial ]
+categories: [ tutorial ]
 image: assets/images/16.jpg
 ---
-[TOC]
 
 
 
-```mermaid
-graph LR
-E[esp8266] --> RBE[ router BE x.x.1.x ] 
-O[Orangepi ] --> RBE[ router BE x.x.1.x ] 
-RFE[router FE x.x.0.x] -->  M[apk] 
-RBE[ x.x.1.x ] --> RFE[x.x.0.x]
-```
+
+
 
 
 
