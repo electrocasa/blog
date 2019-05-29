@@ -25,16 +25,16 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: kgnete
+  frank:
+    name: frank
     display_name: kgnete
     avatar: 'assets/images/avatar.png'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: kgnete@gmail.com
     web: https://wattbucket.com 
     twitter: https://twitter.com/wattbucket
-    description: "Autor de varios articulos sobre control optimo."
-  john:
+    description: "Experto Control & Power Systems"
+  merche:
     name: Merche
     display_name: Merche    
     avatar: 'assets/images/merche.png'
@@ -43,6 +43,14 @@ authors:
     web: https://wattbucket.com 
     twitter: https://twitter.com/wattbucket
     description: "CEO. Experta Pemitting."
+  kgnete:
+    name: kgnete
+    display_name: Merche    
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: wattbucket@gmail.com
+    web: https://wattbucket.com 
+    twitter: https://twitter.com/wattbucket
+    description: "Experto SCADA / IoT "
 
 # Plugins
 plugins:
