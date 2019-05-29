@@ -28,6 +28,7 @@ authors:
   sal:
     name: kgnete
     display_name: kgnete
+    avatar: 'assets/images/avatar.png'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: kgnete@gmail.com
     web: https://wattbucket.com 
@@ -36,12 +37,12 @@ authors:
   john:
     name: Merche
     display_name: Merche    
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/merche.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wattbucket@gmail.com
     web: https://wattbucket.com 
     twitter: https://twitter.com/wattbucket
-    description: "CEO y autora de de varios articulos sobre Gestion de Resursos Energeticos."
+    description: "CEO. Experta Pemitting."
 
 # Plugins
 plugins:
