@@ -25,8 +25,8 @@ permalink: /:title/
 
 # Authors
 authors:
-  frank:
-    name: frank
+  Frank:
+    name: Frank
     display_name: kgnete
     avatar: 'assets/images/avatar.png'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
@@ -34,16 +34,16 @@ authors:
     web: https://wattbucket.com 
     twitter: https://twitter.com/electrpcasa2
     description: "Experto Control & Power Systems"
-  merche:
+  Mercy:
     name: Merche
-    display_name: Merche    
+    display_name: Mercy    
     avatar: 'assets/images/merche.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wattbucket@gmail.com
     web: https://wattbucket.com 
     twitter: https://twitter.com/electrpcasa2
     description: "CEO. Experta Pemitting."
-  kgnete:
+  Kgnete:
     name: kgnete
     display_name: Merche    
     gravatar: b1cc14991db7a456fcd761680bbc8f81

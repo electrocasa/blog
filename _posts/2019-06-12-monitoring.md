@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "jojo Powerful things you can do with the Markdown editor"
-author: frank
+author: Frank
 categories: [ tutorial ]
 image: assets/images/16.jpg
 ---
