@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Normativa2"
-author: john
+author: merche
 categories: [ normativa, auditoria ]
 tags: [red, yellow]
 image: assets/images/1559092278695.png
