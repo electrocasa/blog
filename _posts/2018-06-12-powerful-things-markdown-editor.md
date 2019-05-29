@@ -1,16 +1,19 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
+title:  "jojo Powerful things you can do with the Markdown editor"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ jojo, tutorial ]
 image: assets/images/16.jpg
 ---
 There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
 
 As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
 
-
 ## Special formatting
+
+
+
+
 
 As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
 
@@ -86,9 +89,7 @@ puts markdown.to_html
 printf("Hello World");
 ```
 
-![1559088800999](../assets/images/1559088800999.png)
-
-
+![1559091399721](../assets/images/1559091399721.png)
 
 
 ![walking]({{ site.baseurl }}/assets/images/8.jpg)

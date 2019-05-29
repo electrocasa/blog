@@ -1,19 +1,21 @@
 ---
 layout: post
-title:  "Inception Movie"
+title:  "Normativa"
 author: john
-categories: [ Jekyll, tutorial ]
+categories: [ normativa, auditoria ]
 tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+image: assets/images/1559092278695.png
+description: "Tramitaccion de la documentacion"
 featured: true
 hidden: true
 rating: 4.5
 ---
 
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
+este esta modificado .
 
 #### How to use?
+
+![1559092278695](../assets/images/1559092278695.png)
 
 ![1559087870976](assets/images/1559087870976.png)
 
@@ -22,12 +24,12 @@ It's actually really simple! Add the rating in your YAML front matter. It also s
 ```html
 ---
 layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
+title:  "Normativa"
+author: pedro
+categories: [ normativa, auditoria ]
 tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Actors, directing and more."
+image: assets/images/1559092278695.png
+description: "Tramitaccion de la documentacion"
 rating: 4.5
 ---
 ```
