@@ -4,7 +4,7 @@ title:  "Normativa"
 author: john
 categories: [ normativa, auditoria ]
 tags: [red, yellow]
-image: assets/images/1559092278695.png
+image: assets/images/1559120099797.png
 description: "Tramitaccion de la documentacion"
 featured: true
 hidden: true
@@ -21,15 +21,6 @@ este esta modificado .
 
 It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:
 
-```html
----
-layout: post
-title:  "Normativa"
-author: pedro
-categories: [ normativa, auditoria ]
-tags: [red, yellow]
-image: assets/images/1559092278695.png
-description: "Tramitaccion de la documentacion"
-rating: 4.5
----
-```
+
+
+![1559120099797](../assets/images/1559120099797.png)
