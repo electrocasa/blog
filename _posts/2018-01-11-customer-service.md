@@ -24,3 +24,5 @@ It's actually really simple! Add the rating in your YAML front matter. It also s
 
 
 ![1559120099797](../assets/images/1559120099797.png)
+
+![1559122659596](../assets/images/1559122659596.png)
